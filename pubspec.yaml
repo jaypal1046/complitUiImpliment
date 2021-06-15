@@ -23,8 +23,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  super_tooltip:
 
-  flutter_xlider:
 
 
   # The following adds the Cupertino Icons font to your application.

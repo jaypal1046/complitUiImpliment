@@ -2,7 +2,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:show_more_text_popup/show_more_text_popup.dart';
+
 import 'package:super_tooltip/super_tooltip.dart';
 
 
